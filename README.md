@@ -1,6 +1,6 @@
 # Brain Tumor Classification
 
-- Convolutional Neural Network Model implemented on a Brain Tumor Classification Dataset, roughly 93% accurate with only 63 batches used for the training set
+- Convolutional Neural Network Model implemented on a Brain Tumor Classification Dataset, roughly 93% accurate with only 63 batches and 20 epochs used for training
 
 # How to Run
 You could directly download the code
